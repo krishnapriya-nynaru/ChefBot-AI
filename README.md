@@ -64,7 +64,7 @@ This AI-powered recipe assistant allows users to select from various cuisines an
 
 ## Results & User Interface
 
-![alt_text](https://github.com/krishnapriya-nynaru/YOLOv11-FaceAnonymization/blob/main/YOLOv11_faceanonymization/output_videos/result_video.gif)
+![alt_text](https://github.com/krishnapriya-nynaru/ChefBot-AI/blob/main/ChefBot_AI/Results_and_UI/ChefBot-AI-UI.gif?raw=true)
 
 ## Contributing 
 Contributions are welcome! To contribute to this project:
