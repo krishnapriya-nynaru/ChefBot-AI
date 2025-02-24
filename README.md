@@ -41,7 +41,7 @@ This AI-powered recipe assistant allows users to select from various cuisines an
     conda activate env_name
 3. Clone this repository:
    ```bash
-   git clone https://github.com/krishnapriya-nynaru/Multilingual-AI-Audiobook-Narrator.git
+   git clone https://github.com/krishnapriya-nynaru/ChefBot-AI.git
 2. Change to Project directory
     ```bash
     cd ChefBot-AI
@@ -64,8 +64,7 @@ This AI-powered recipe assistant allows users to select from various cuisines an
 
 ## Results & User Interface
 
-![alt_text](https://github.com/krishnapriya-nynaru/YOLOv11-FaceAnonymization/blob/main/
-YOLOv11_faceanonymization/output_videos/result_video.gif)
+![alt_text](https://github.com/krishnapriya-nynaru/YOLOv11-FaceAnonymization/blob/main/YOLOv11_faceanonymization/output_videos/result_video.gif)
 
 ## Contributing 
 Contributions are welcome! To contribute to this project:
